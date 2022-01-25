@@ -66,7 +66,7 @@ function Titulo(props) {
 // export default HomePage
 
 export default function PaginaInicial() {
-    const username = 'peas';
+    const username = 'Victor160197';
 
     return (
         <>
@@ -154,6 +154,7 @@ export default function PaginaInicial() {
                                 borderRadius: '50%',
                                 marginBottom: '16px',
                             }}
+                            // src={`https://github.com/${username}.png`}
                             src={`https://github.com/${username}.png`}
                         />
                         <Text
